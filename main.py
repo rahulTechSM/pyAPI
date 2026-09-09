@@ -58,6 +58,8 @@ def createEmployee(emp: Employee):
     employees.append(new_employee)
     return new_employee
 
+print("This code is from MAIN")
+
 
 
 
