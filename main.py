@@ -58,8 +58,4 @@ def createEmployee(emp: Employee):
     employees.append(new_employee)
     return new_employee
 
-
-
-
-
-    
+print("FastAPI Development Project")
